@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bonjourallumette
-- 👀 I’m interested in history, especially social and cultural history
-- 🌱 I’m currently learning world history and historiography
-- 💞️ I’m looking to collaborate on Project Mudfog
+- 👀 I major in history, and I'm interested in digital history, public history and game studies
+- 🌱 I’m currently ?
+- 💞️ I’m looking to collaborate on an indie game project
 - 📫 How to reach me ...
 
 <!---
