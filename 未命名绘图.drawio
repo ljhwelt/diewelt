@@ -1,9 +1,24 @@
-<mxfile host="app.diagrams.net" modified="2023-10-05T09:51:33.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.2" etag="_cANXdqPJa5fqthaI7F3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-05T09:55:52.689Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="eyu-V8KYja_hETXDjsEn" version="22.0.2" type="github">
   <diagram name="第 1 页" id="qH2yC_C13bGycrftGdG2">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="166" grid="1" gridSize="6" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="NYbqjXyNBhBfEa0iFy3D-3" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="610" width="50" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="NYbqjXyNBhBfEa0iFy3D-4" value="人物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="90" y="695" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NYbqjXyNBhBfEa0iFy3D-5" value="人物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="96" y="701" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NYbqjXyNBhBfEa0iFy3D-6" value="人物" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="102" y="707" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NYbqjXyNBhBfEa0iFy3D-7" value="技能" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=19;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="192" y="612" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
