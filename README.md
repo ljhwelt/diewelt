@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @bonjourallumette
-- 👀 I major in history, and I'm interested in global history, digital history, public history and game studies
+- 👋 Hi, I’m Lo Jeunhou @bonjourallumette
+- 👀 I'm a PhD student in World history,and focusing in British History, History of Knowledge, Social-Economic History, Global History, Digital/Public History, and Game Design+Dev.
 
 
 <!---
