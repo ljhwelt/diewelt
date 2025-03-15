@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lo Jeunhou @bonjourallumette
-- 👀 I'm a PhD student in World history,and focusing on British History, History of Knowledge, Social-Economic History, Global History, Digital/Public History, and Game Design+Dev.
+- 👀 I'm a PhD student in World history,and focusing on British History, History of Knowledge, Economic-Social History, Global History, Digital/Public History, and Game Design+Dev.
 
 
 <!---
